@@ -1,3 +1,3 @@
 # ReaxzyPay
 
-ReaxzyPay adalah platform jasa digital otomatis terhubung dengan API Orderkuota.
+ReaxzyPay adalah platform jasa digital otomatis yang bisa anda gunakan dengan Nyaman.
